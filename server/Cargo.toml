@@ -28,7 +28,7 @@ h264-reader = "0.7.0"
 itertools = "0.12.0"
 nix = "0.27.0"
 pretty-hex = "0.4.0"
-ring = "0.17.0"
+ring = "0.17.13"
 rusqlite = "0.30.0"
 tracing = { version = "0.1", features = ["log"] }
 tracing-log = "0.2"
